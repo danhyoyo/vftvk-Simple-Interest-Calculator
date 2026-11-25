@@ -9,3 +9,5 @@ A calculator that computes the simple interest given principal, annual rate of i
 
 ## Output
 simple interest = p*t*r/100
+
+Contributions are welcome.
